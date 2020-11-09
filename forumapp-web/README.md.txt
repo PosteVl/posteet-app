@@ -1,1 +1,3 @@
-frontend code for Posteet app at https://poste.tech
+frontend code for Posteet app 
+
+Hosted at https://poste.tech
